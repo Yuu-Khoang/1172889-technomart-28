@@ -1,6 +1,6 @@
 # Личный проект «Техномарт»
 
-* Студент: [Юлия](https://up.htmlacademy.ru/htmlcss/2/user/1172889).
+* Студент: [Юлия](https://up.htmlacademy.ru/htmlcss/28/user/1172889).
 * Наставник: [Отсутствует].
 
 ---
