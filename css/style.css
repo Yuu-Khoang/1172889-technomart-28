@@ -650,8 +650,8 @@ input[type="radio"].visually-hidden {
   margin: 0px;
   padding-top: 20px;
   padding-bottom: 15px;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 32px;
+  padding-right: 28px;
   vertical-align: middle;
   text-decoration: none;
   color: #ffffff;
@@ -1452,7 +1452,7 @@ input[type="radio"].visually-hidden {
 .product-price {
   width: 140px;
   min-height: 38px;
-  margin-top: 7px;
+  margin-top: 10px;
   margin-left: 8px;
   padding-top: 10px;
   line-height: 18px;
@@ -1464,7 +1464,7 @@ input[type="radio"].visually-hidden {
 
 .product-price-special {
   min-height: 20px;
-  margin-top: 10px;
+  margin-top: 7px;
   font-size: 17px;
   line-height: 18px;
   text-decoration: line-through;
